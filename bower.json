@@ -1,0 +1,20 @@
+{
+  "name": "cd_js2_faundamental_pokemonbattle",
+  "homepage": "https://github.com/shtakai/cd_js2_faundamental_pokemonbattle",
+  "authors": [
+    "Alyson Takai <shtakai@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
